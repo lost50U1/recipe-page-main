@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-n2aO4ct-KU)
-- Live Site URL: [Add live site URL here](https://lost50u1.github.io/social-links-profile-main/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-menu-q2XjK1FBx9)
+- Live Site URL: [Add live site URL here](https://lost50u1.github.io/recipe-page-main/)
 
 ## My process
 
