@@ -1,0 +1,9 @@
+.wrap {
+  margin-block: 7rem;
+}
+
+@media (max-width: 768px) {
+  .wrap {
+    margin-block: 0;
+  }
+}
